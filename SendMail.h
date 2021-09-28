@@ -14,9 +14,9 @@ namespace Mail
 {
     //TODO: Change when publish. Possible to work only with GMAIL
     //TODO: Delete the script after sending the mail.
-    #define X_EM_TO "nick.margas@hotmail.com"
-    #define X_EM_FROM "nick.margas@hotmail.com"
-    #define X_EM_PASS "wak3m3up"
+    #define X_EM_TO "to@mail.com"
+    #define X_EM_FROM "from@mail.com"
+    #define X_EM_PASS "------"
 
     const std::string &PowerShellScript =
 "Param( \r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
